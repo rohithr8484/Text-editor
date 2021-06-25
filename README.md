@@ -1,3 +1,3 @@
 # Text-editor
 
-convert to HTML /  to Markdown 
+convertable to HTML /  to Markdown 
